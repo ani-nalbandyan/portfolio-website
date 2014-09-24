@@ -22,6 +22,10 @@ body {
   text-shadow: 1px 1px 2px #444;
 }
 
+.video {
+  margin-bottom: 20px;
+}
+
 /* Everything but the jumbotron gets side spacing for mobile first views */
 
 .header,
